@@ -8,7 +8,7 @@
 **CLI 스크립트**
 
 * [***`crudini`*** 명령어]() 
-* [***`jq`*** 명령어]()
+* [***`jq`*** 명령어](https://github.com/starlab3030/my-jq)
 * [***`yq`*** 명령어]()
 
 <br>
